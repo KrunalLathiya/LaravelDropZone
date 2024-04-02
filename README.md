@@ -8,4 +8,4 @@ To start the vite server, use this command: npm run dev
 
 To start the laravel server, use this command: php artisan serve
 
-You can find the complete project guide on here: [Laravel 11 Dropzone Multiple Images Upload]().
+You can find the complete project guide on here: [Laravel 11 Dropzone Multiple Images Upload](https://appdividend.com/2022/02/28/laravel-dropzone-image-upload/).
